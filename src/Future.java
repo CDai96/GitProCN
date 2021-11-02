@@ -1,5 +1,10 @@
 public class Future {
     public static void main(String[] args) {
-        System.out.println("Cina horoscope sign: Leo");
+        String horoscope = "Leo";
+        printHoroscope(horoscope);
+    }
+
+    private static void printHoroscope(String horoscope) {
+        System.out.println("Cina horoscope sign: " + horoscope);
     }
 }
