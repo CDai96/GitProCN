@@ -4,6 +4,6 @@ public class Cheerer {
     }
 
     public static void main(String[] args) {
-        cheer("java lover");
+        cheer("java lovers");
     }
 }
