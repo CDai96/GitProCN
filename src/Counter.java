@@ -1,11 +1,10 @@
 public class Counter {
 
     public static void main(String[] args) {
-        int myAge = 22;
-        printAge(myAge);
+        printAge();
     }
 
-    public static void printAge(int age){
-        System.out.println(age);
+    public static void printAge(){
+        System.out.println(8);
     }
 }
