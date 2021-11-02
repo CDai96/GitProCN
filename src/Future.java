@@ -8,6 +8,6 @@ public class Future {
     }
 
     private static void printHoroscope(String horoscope) {
-        System.out.println("Horoscope sign: " + horoscope);
+        System.out.println("Your future looks like " + horoscope);
     }
 }
