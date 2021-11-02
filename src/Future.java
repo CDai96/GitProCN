@@ -2,6 +2,7 @@ public class Future {
     public static void main(String[] args) {
         String horoscope = "Leo";
         String garrisonHoroscope = "ox";
+        String mikeHoroscope = "rat";
         printHoroscope(horoscope);
         printHoroscope(garrisonHoroscope);
     }
