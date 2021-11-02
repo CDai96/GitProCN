@@ -3,11 +3,11 @@ public class Future {
         String horoscope = "Le  o";
         String garrisonHoroscope = "ox";
         String mikeHoroscope = "rat";
-        printHoroscope(horoscope);
+        printHoroscope(horoscope,2);
         printHoroscope(garrisonHoroscope);
     }
 
-    private static void printHoroscope(String horoscope) {
+    private static void printHoroscope(String horoscope, int randomNumber) {
         System.out.println("Horoscope sign: " + horoscope);
     }
 }
